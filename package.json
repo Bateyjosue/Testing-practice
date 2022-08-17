@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing practice",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bateyjosue/Testing-practice.git"
+  },
+  "author": "Josh Batey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bateyjosue/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Bateyjosue/Testing-practice#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
